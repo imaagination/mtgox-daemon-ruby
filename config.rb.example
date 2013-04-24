@@ -1,0 +1,8 @@
+$config = {}
+$config['ALERT_API_HOST'] = 'http://example.com'
+$config['ALERT_API_PATH'] = '/price'
+$config['HMAC_KEY'] = 'HASH_KEY'
+$config['DMS_URL'] = 'https://nosnch.in/XXXXXXXXXX'
+$config['TICKER_URL'] = 'https://data.mtgox.com/api/1/BTCUSD/trades'
+$config['POLLING_FREQUENCY'] = 45
+
